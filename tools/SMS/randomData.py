@@ -2,7 +2,7 @@ import json
 import random
 
 mails = (
-    "mail.ru",
+    "ukr.net",
     "inbox.ru",
     "list.ru",
     "bk.ru",
