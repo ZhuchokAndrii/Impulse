@@ -2,15 +2,15 @@ import json
 import random
 
 mails = (
-    "mail.ru",
-    "inbox.ru",
-    "list.ru",
-    "bk.ru",
-    "ya.ru",
-    "yandex.com",
-    "yandex.ua",
-    "yandex.ru",
-    "gmail.com"
+    "mail.i.ua",
+    "yahoo.com",
+    "mail.ukr.net",
+    "google.ru",
+    "mail.yahoo.com",
+    "bing.com",
+    "google.com.ua",
+    "ukr.net",
+    "gmail.com"
 )
 
 
